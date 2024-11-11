@@ -6,7 +6,7 @@
     background-color: #9999ff;
     align-items: center;
     justify-content: center;
-   font-size: 30px;
+   font-size: 50px;
     padding: 10px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(1, 7, 13);
@@ -38,7 +38,7 @@ nav ul li{
 
 .pw h2{
     color: cornsilk;
-    font-size: 25px;
+    font-size: 45px;
     background-color: #000600;
     padding: 20px;
 }
@@ -51,7 +51,7 @@ nav ul li{
         
         background-color: #e6e6e6;
         width: 30%;
-        font-size: 10px;
+        font-size: 20px;
         text-align: center;
         padding: 20px;
 box-shadow: #9999ff;
@@ -59,19 +59,19 @@ box-shadow: #9999ff;
     }
 
 }
-/*from  min250 this below will be apply
-the belo max 989 the below will be apply*/
+/*from  min350 this below will be apply
+the below  989px the below will be apply*/
 @media (min-width: 350px) and (max-width: 989px) {
     .pw h2{
-        font-size: 25px;
+        font-size: 35px;
     }
 
     .head{
-        font-size: 40px;
+        font-size: 30px;
     }
     .wv1 p
     {
-        font-size: 15px;
+        font-size: 10px;
     }
     
 }
